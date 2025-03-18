@@ -1,6 +1,6 @@
 export const configurazione = {
   testo: "Anastasia",
-  dimensione: 1,
+  dimensione: 0.5,
   interlinea: 0.7,
   allineamento: "centro",
   percorsoFont: "./assets/InputMonoCondensed-BoldItalic.ttf",
