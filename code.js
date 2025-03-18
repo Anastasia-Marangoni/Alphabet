@@ -1,8 +1,10 @@
 export const configurazione = {
-  testo: "Anastasia",
+  testo: "Anastasia Marangoni",
   dimensione: 0.4,
   interlinea: 0.4,
+
   allineamento: "centro",
+
   percorsoFont: "./assets/InputMonoCondensed-BoldItalic.ttf",
   mostraTestoSotto: true,
   mostraTestoSopra: false,
